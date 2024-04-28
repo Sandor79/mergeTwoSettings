@@ -1,0 +1,19 @@
+{
+  "name": "mergetwosettings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sandor79/mergeTwoSettings.git"
+  },
+  "author": "Sandor Halasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandor79/mergeTwoSettings/issues"
+  },
+  "homepage": "https://github.com/Sandor79/mergeTwoSettings#readme"
+}
